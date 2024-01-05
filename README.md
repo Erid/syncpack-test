@@ -1,1 +1,5 @@
-# syncpack-test
+# Run
+
+```
+pnpm syncpack fix-mismatches
+```
